@@ -1,2 +1,2 @@
 # PowerPoint Chess
-an attempt making a game of chess in PowerPoint
+an attempt at making a game of chess in PowerPoint
